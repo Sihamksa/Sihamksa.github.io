@@ -1,0 +1,41 @@
+body {
+	border: 20px solid #bdc3c7;
+	width: 80%;
+	max-width: 700px;
+	margin:20px auto;
+	padding: 20px;
+	font-family: source sans pro;
+	
+
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+.date {
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 0.2rem;
+
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+
+	/* Gradient transparent - color - transparent
+	got this off css-tricks.com examples of hr and copied the code */
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.post {
+	margin-bottom: 20px;
+}
