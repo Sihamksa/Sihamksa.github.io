@@ -1,0 +1,95 @@
+.PageOne {
+  background: url(https://pixabay.com/static/uploads/photo/2016/01/06/09/03/bokeh-1123768_960_720.jpg);
+  font-family:Open Sans Condensed;
+  height:250px;
+  color: white;
+}
+
+.PageTwo {
+  height: 800px;
+  background:url();
+  font-family:Open Sans Condensed;
+  padding-left:180px;
+  padding-right:180px;
+}
+
+.PageThree {
+  height: 800px;
+  background:url;
+  font-family:Open Sans Condensed;
+  padding-left:180px;
+  padding-right:180px;
+}
+.PageFour {
+  height: 200px;
+  background:url();
+  font-family:Open Sans Condensed;
+  
+}
+
+.container-fluid{
+  background: url();
+  height:60px;
+  opacity:.6px;
+  
+}
+.block{
+  font-family:Open Sans Condensed;
+  color:white;
+  background:url(http://hdwallpaperspretty.com/wp-content/gallery/pink-purple-and-blue-wallpaper/abstraction%20pink%20purple%20lines%20stripes%201920x1080.jpg);
+}
+
+.nav-pills {
+  font-size:25px;
+  font-family:Open Sans Condensed;
+  background-color:;
+  border: px solid white;
+  padding-left: 50px;
+  margin: 10px;
+  border-radius:0px; 
+}
+
+.nav ul {
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+}
+.nav li {
+  display: inline-block;
+}
+
+h1 {
+  font-size:45px;
+  padding: 20px;
+  margin: 20px;
+  
+}
+
+li {
+  margin:0;
+  padding: 0 0 0 20px;
+  color:gray;
+}
+
+.btn {
+  font-size:25px;
+}
+  
+}
+h2{
+  margin:20px;
+  padding:20px;
+  font-size:35px;
+}
+
+p{
+  margin:20px;
+  padding:20px; 
+  font-size:25px;
+}
+
+.pull-left {
+  padding:8px;
+  font-size: 30px;
+}
+
